@@ -95,5 +95,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-*Built with 💬 by [426pawan](https://github.com/426pawan)*
+*Built with 💬 by [suman2k3](https://github.com/suman2k3)*
 
